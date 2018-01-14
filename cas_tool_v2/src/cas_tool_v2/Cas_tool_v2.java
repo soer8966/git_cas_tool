@@ -15,7 +15,7 @@ public class Cas_tool_v2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("testing 3");
     }
     
 }
