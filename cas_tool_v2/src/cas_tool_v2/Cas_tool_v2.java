@@ -15,7 +15,7 @@ public class Cas_tool_v2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("testing 3, from mac");
+        System.out.println("testing 3, from mac and pc");
     }
     
 }
